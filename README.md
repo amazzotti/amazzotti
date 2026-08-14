@@ -1,22 +1,17 @@
-<h1 align="left">Ciao, sono Alessandro Mazzotti 👋</h1>
+<h1 align="left">Hi, I'm Alessandro Mazzotti 👋</h1>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=amazzotti&label=Profile%20views&color=0e75b6&style=flat" alt="amazzotti" />
 </p>
 
-Ingegnere Elettronico con esperienza in progettazione hardware e firmware per sistemi embedded e nella gestione di progetti R&D. Lavoro con microcontrollori, C e Python.
+Electronic Engineer with experience in hardware and firmware design for embedded systems and in managing R&D projects. I work with microcontrollers, C and Python.
 
-### 🔧 Cosa faccio
-- Progettazione hardware (schematici e PCB) per sistemi embedded
-- Sviluppo firmware su microcontrollori (bare-metal e RTOS)
-- Debug hardware/firmware con strumentazione da laboratorio (oscilloscopio, analizzatore logico, JTAG/SWD)
-- Gestione e coordinamento di progetti R&D
-- Tool di sviluppo e automazione in **C** e **Python**
-
-### 💬 Mottos
-> Hardware is hard, firmware is harder, debugging both at 2am is a lifestyle.
-
-> Se funziona al primo tentativo, hai dimenticato qualcosa.
+### 🔧 What I do
+- Hardware design (schematics and PCB) for embedded systems
+- Firmware development on microcontrollers (bare-metal and RTOS)
+- Hardware/firmware debugging with lab instrumentation (oscilloscope, logic analyzer, JTAG/SWD)
+- R&D project management and coordination
+- Development and automation tooling in **C** and **Python**
 
 ---
 
@@ -36,8 +31,7 @@ Ingegnere Elettronico con esperienza in progettazione hardware e firmware per si
 
 ---
 
-
-## 🌐 Dove trovarmi
+## 🌐 Where to find me
 
 <p align="left">
   <a href="https://it.linkedin.com/in/alessandro-mazzotti-1902b9222" target="_blank">
